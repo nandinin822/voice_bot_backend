@@ -1,0 +1,7 @@
+Flask==3.0.3 
+Flask-Cors==4.0.1
+pygame==2.6.0
+python-dotenv==1.0.1
+speechrecognition==3.10.4
+deepgram-sdk==3.5.1 
+Groq==0.10.0
