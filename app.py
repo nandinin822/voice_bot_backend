@@ -187,4 +187,5 @@ if __name__ == "__main__":
     if not os.path.exists('audio'):
         os.makedirs('audio')
     # play_audio()
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000,debug=True)
+
